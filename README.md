@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -784,4 +784,4 @@
         });
     </script>
 </body>
-</html># Kay1
+</html>
